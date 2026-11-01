@@ -23,3 +23,8 @@ https://github.com/storytold/effectcraft
 
 Cap Cut Clone:
 https://github.com/jub0t/Concat
+
+# 3D
+
+ZBrush Clone:
+https://github.com/islandmed/SculptForge
