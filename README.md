@@ -28,3 +28,8 @@ https://github.com/jub0t/Concat
 
 ZBrush Clone:
 https://github.com/islandmed/SculptForge
+
+# Заметки
+
+Obsidian Clone:
+https://github.com/Freaction/Aquilum
