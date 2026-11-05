@@ -12,6 +12,9 @@ https://github.com/storytold/soundcraft
 Ableton Clone:
 https://github.com/suhina-daw/suhina-daw
 
+Adobe Audition Clone:
+https://github.com/geekcastradio/altered-audio-editor
+
 # Видео:
 
 Davinci Resolve Clone:
