@@ -21,6 +21,9 @@ https://github.com/storytold/filmcraft
 Adobe After Effects Clone:
 https://github.com/storytold/effectcraft
 
+Sony Vegas Pro Clone:
+https://github.com/acasoq-web/BananaV
+
 Cap Cut Clone:
 https://github.com/jub0t/Concat
 
