@@ -9,6 +9,9 @@ https://github.com/ItsAlphaNeon/Lemon-Studio
 Avid Pro Tools Clone:
 https://github.com/storytold/soundcraft
 
+SoundCraft Clone:
+https://github.com/transit-audio/transit
+
 Ableton Clone:
 https://github.com/suhina-daw/suhina-daw
 
