@@ -1,4 +1,4 @@
-# Музыка
+# Audio/Music
 
 Logic Pro Clone:
 https://github.com/fabox-os/Pro-Wave
@@ -18,7 +18,7 @@ https://github.com/suhina-daw/suhina-daw
 Adobe Audition Clone:
 https://github.com/geekcastradio/altered-audio-editor
 
-# Видео:
+# Video:
 
 Davinci Resolve Clone:
 https://github.com/fabox-os/Picasso-Suite
@@ -40,7 +40,7 @@ https://github.com/jub0t/Concat
 ZBrush Clone:
 https://github.com/islandmed/SculptForge
 
-# GAME
+# Game
 
 Unity 3D Clone:
 https://github.com/Aalzard/MistyEngine
