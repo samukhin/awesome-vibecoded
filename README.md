@@ -45,7 +45,7 @@ https://github.com/islandmed/SculptForge
 Unity 3D Clone:
 https://github.com/Aalzard/MistyEngine
 
-# Заметки
+# Notes
 
 Obsidian Clone:
 https://github.com/Freaction/Aquilum
