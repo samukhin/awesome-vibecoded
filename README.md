@@ -53,5 +53,8 @@ https://github.com/Aalzard/MistyEngine
 
 # Notes
 
-Obsidian Clone:
+Obsidian Clone Rust:
 https://github.com/Freaction/Aquilum
+
+Obsidian Clone TypeScript:
+https://github.com/Quartz-Maker/Quartz
