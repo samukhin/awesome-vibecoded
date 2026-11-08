@@ -37,8 +37,11 @@ https://github.com/jub0t/Concat
 
 # 3D
 
-ZBrush Clone:
+ZBrush Clone C++:
 https://github.com/islandmed/SculptForge
+
+ZBrush Clone Rust:
+https://github.com/crisprintsstuff/OxyBrush
 
 Autodesk Maya:
 https://github.com/RX-7-GTC/inca
