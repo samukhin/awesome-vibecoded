@@ -40,6 +40,9 @@ https://github.com/jub0t/Concat
 ZBrush Clone:
 https://github.com/islandmed/SculptForge
 
+Autodesk Maya:
+https://github.com/RX-7-GTC/inca
+
 # Game
 
 Unity 3D Clone:
