@@ -32,6 +32,9 @@ https://github.com/storytold/filmcraft
 Adobe After Effects Clone:
 https://github.com/storytold/effectcraft
 
+Adobe Media Encoder Clone:
+https://github.com/el-j/encoderCraft
+
 Sony Vegas Pro Clone:
 https://github.com/acasoq-web/BananaV
 
