@@ -49,8 +49,11 @@ https://github.com/islandmed/SculptForge
 ZBrush Clone Rust:
 https://github.com/crisprintsstuff/OxyBrush
 
-Autodesk Maya:
+Autodesk Maya Rust:
 https://github.com/RX-7-GTC/inca
+
+Autodesk Maya Rust + C++:
+https://github.com/srlegrand/Aztek/
 
 # Game
 
