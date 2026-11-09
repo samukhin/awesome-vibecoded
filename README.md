@@ -58,3 +58,6 @@ https://github.com/Freaction/Aquilum
 
 Obsidian Clone TypeScript:
 https://github.com/Quartz-Maker/Quartz
+
+Obsidian Clone JavaScript + Rust:
+https://github.com/jpzk/opensidian
