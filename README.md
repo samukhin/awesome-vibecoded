@@ -20,8 +20,11 @@ https://github.com/geekcastradio/altered-audio-editor
 
 # Video:
 
-Davinci Resolve Clone:
+Davinci Resolve Clone Rust:
 https://github.com/fabox-os/Picasso-Suite
+
+Davinci Resolve Clone C++:
+https://github.com/SeniorMatt/kinoklip
 
 Adobe Premier Pro Clone:
 https://github.com/storytold/filmcraft
