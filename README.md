@@ -18,6 +18,9 @@ https://github.com/suhina-daw/suhina-daw
 Adobe Audition Clone:
 https://github.com/geekcastradio/altered-audio-editor
 
+Cubase Clone:
+https://github.com/gggff123/studio-clone-daw
+
 # Video:
 
 Davinci Resolve Clone Rust:
