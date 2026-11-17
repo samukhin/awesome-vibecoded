@@ -3,8 +3,11 @@
 Logic Pro Clone:
 https://github.com/fabox-os/Pro-Wave
 
-FL Studio Clone:
+FL Studio Clone Rust:
 https://github.com/ItsAlphaNeon/Lemon-Studio
+
+FL Studio Clone C++:
+https://github.com/Ka1-S/LYNX-SHARE
 
 Avid Pro Tools Clone:
 https://github.com/storytold/soundcraft
